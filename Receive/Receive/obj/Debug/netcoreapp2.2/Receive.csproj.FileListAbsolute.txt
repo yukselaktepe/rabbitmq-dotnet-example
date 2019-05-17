@@ -1,0 +1,11 @@
+D:\Projeler\rabbitmq-dotnet-example\Receive\Receive\bin\Debug\netcoreapp2.2\Receive.deps.json
+D:\Projeler\rabbitmq-dotnet-example\Receive\Receive\bin\Debug\netcoreapp2.2\Receive.runtimeconfig.json
+D:\Projeler\rabbitmq-dotnet-example\Receive\Receive\bin\Debug\netcoreapp2.2\Receive.runtimeconfig.dev.json
+D:\Projeler\rabbitmq-dotnet-example\Receive\Receive\bin\Debug\netcoreapp2.2\Receive.dll
+D:\Projeler\rabbitmq-dotnet-example\Receive\Receive\obj\Debug\netcoreapp2.2\Receive.csprojAssemblyReference.cache
+D:\Projeler\rabbitmq-dotnet-example\Receive\Receive\obj\Debug\netcoreapp2.2\Receive.csproj.CoreCompileInputs.cache
+D:\Projeler\rabbitmq-dotnet-example\Receive\Receive\obj\Debug\netcoreapp2.2\Receive.AssemblyInfoInputs.cache
+D:\Projeler\rabbitmq-dotnet-example\Receive\Receive\obj\Debug\netcoreapp2.2\Receive.AssemblyInfo.cs
+D:\Projeler\rabbitmq-dotnet-example\Receive\Receive\bin\Debug\netcoreapp2.2\Receive.pdb
+D:\Projeler\rabbitmq-dotnet-example\Receive\Receive\obj\Debug\netcoreapp2.2\Receive.dll
+D:\Projeler\rabbitmq-dotnet-example\Receive\Receive\obj\Debug\netcoreapp2.2\Receive.pdb

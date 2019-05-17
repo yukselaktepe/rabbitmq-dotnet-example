@@ -1,0 +1,11 @@
+D:\Projeler\rabbitmq-dotnet-example\Sender\Sender\bin\Debug\netcoreapp2.2\Sender.deps.json
+D:\Projeler\rabbitmq-dotnet-example\Sender\Sender\bin\Debug\netcoreapp2.2\Sender.runtimeconfig.json
+D:\Projeler\rabbitmq-dotnet-example\Sender\Sender\bin\Debug\netcoreapp2.2\Sender.runtimeconfig.dev.json
+D:\Projeler\rabbitmq-dotnet-example\Sender\Sender\bin\Debug\netcoreapp2.2\Sender.dll
+D:\Projeler\rabbitmq-dotnet-example\Sender\Sender\obj\Debug\netcoreapp2.2\Sender.csprojAssemblyReference.cache
+D:\Projeler\rabbitmq-dotnet-example\Sender\Sender\obj\Debug\netcoreapp2.2\Sender.csproj.CoreCompileInputs.cache
+D:\Projeler\rabbitmq-dotnet-example\Sender\Sender\obj\Debug\netcoreapp2.2\Sender.AssemblyInfoInputs.cache
+D:\Projeler\rabbitmq-dotnet-example\Sender\Sender\obj\Debug\netcoreapp2.2\Sender.AssemblyInfo.cs
+D:\Projeler\rabbitmq-dotnet-example\Sender\Sender\bin\Debug\netcoreapp2.2\Sender.pdb
+D:\Projeler\rabbitmq-dotnet-example\Sender\Sender\obj\Debug\netcoreapp2.2\Sender.dll
+D:\Projeler\rabbitmq-dotnet-example\Sender\Sender\obj\Debug\netcoreapp2.2\Sender.pdb
